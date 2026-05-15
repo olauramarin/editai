@@ -1,0 +1,647 @@
+[
+  {
+    "data": {
+      "title": "birocratie-english-default — English — default",
+      "problem": "birocratie-english-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-english-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-english-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-english-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-english-default/page-4.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-english-default/page-5.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "birocratie-hungarian-default — Hungarian — default",
+      "problem": "birocratie-hungarian-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-hungarian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-hungarian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-hungarian-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "birocratie-romanian-default — Romanian — default",
+      "problem": "birocratie-romanian-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-default/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "birocratie-romanian-loweffort — Romanian — loweffort",
+      "problem": "birocratie-romanian-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-loweffort/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-loweffort/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-loweffort/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "birocratie-romanian-mistakes — Romanian — mistakes",
+      "problem": "birocratie-romanian-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-mistakes/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/birocratie_birocratie-romanian-mistakes/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cartonase-en-default — English — default",
+      "problem": "cartonase-en-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-en-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-en-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-en-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cartonase-hu-default — Hungarian — default",
+      "problem": "cartonase-hu-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-hu-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-hu-default/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cartonase-ro-default — Romanian — default",
+      "problem": "cartonase-ro-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-ro-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-ro-default/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cartonase-ro-loweffort — Romanian — loweffort",
+      "problem": "cartonase-ro-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-ro-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-ro-loweffort/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-ro-loweffort/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cartonase-ro-mistakes — Romanian — mistakes",
+      "problem": "cartonase-ro-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-ro-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cartonase_cartonase-ro-mistakes/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cercetasi-english-default — English — default",
+      "problem": "cercetasi-english-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-english-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-english-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-english-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cercetasi-hungarian-default — Hungarian — default",
+      "problem": "cercetasi-hungarian-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-hungarian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-hungarian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-hungarian-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cercetasi-romanian-default — Romanian — default",
+      "problem": "cercetasi-romanian-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-default/page-4.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-default/page-5.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cercetasi-romanian-loweffort — Romanian — loweffort",
+      "problem": "cercetasi-romanian-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-loweffort/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-loweffort/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-loweffort/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "cercetasi-romanian-mistakes — Romanian — mistakes",
+      "problem": "cercetasi-romanian-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-mistakes/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/cercetasi_cercetasi-romanian-mistakes/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "esm-english-default — English — default",
+      "problem": "esm-english-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-english-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-english-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-english-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "esm-hungarian-default — Hungarian — default",
+      "problem": "esm-hungarian-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-hungarian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-hungarian-default/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "esm-romanian-default — Romanian — default",
+      "problem": "esm-romanian-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-default/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "esm-romanian-loweffort — Romanian — loweffort",
+      "problem": "esm-romanian-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-loweffort/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-loweffort/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "esm-romanian-mistakes — Romanian — mistakes",
+      "problem": "esm-romanian-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/esm_esm-romanian-mistakes/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "expresie-english-default — English — default",
+      "problem": "expresie-english-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-english-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-english-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-english-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "expresie-hungarian-default — Hungarian — default",
+      "problem": "expresie-hungarian-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-hungarian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-hungarian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-hungarian-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "expresie-romanian-default — Romanian — default",
+      "problem": "expresie-romanian-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-default/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "expresie-romanian-loweffort — Romanian — loweffort",
+      "problem": "expresie-romanian-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-loweffort/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-loweffort/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-loweffort/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "expresie-romanian-mistakes — Romanian — mistakes",
+      "problem": "expresie-romanian-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-mistakes/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-mistakes/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-mistakes/page-4.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/expresie_expresie-romanian-mistakes/page-5.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "legos-english-default — English — default",
+      "problem": "legos-english-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-english-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-english-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-english-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "legos-hungarian-default — Hungarian — default",
+      "problem": "legos-hungarian-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-hungarian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-hungarian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-hungarian-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "legos-romanian-default — Romanian — default",
+      "problem": "legos-romanian-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-romanian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-romanian-default/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "legos-romanian-loweffort — Romanian — loweffort",
+      "problem": "legos-romanian-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-romanian-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-romanian-loweffort/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "legos-romanian-mistakes — Romanian — mistakes",
+      "problem": "legos-romanian-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-romanian-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-romanian-mistakes/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/legos_legos-romanian-mistakes/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "proeminenta-english-default — English — default",
+      "problem": "proeminenta-english-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-english-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-english-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-english-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-english-default/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "proeminenta-hungarian-default — Hungarian — default",
+      "problem": "proeminenta-hungarian-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-hungarian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-hungarian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-hungarian-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-hungarian-default/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "proeminenta-romanian-default — Romanian — default",
+      "problem": "proeminenta-romanian-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-default/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "proeminenta-romanian-loweffort — Romanian — loweffort",
+      "problem": "proeminenta-romanian-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-loweffort/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-loweffort/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-loweffort/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "proeminenta-romanian-mistakes — Romanian — mistakes",
+      "problem": "proeminenta-romanian-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-mistakes/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/proeminenta_proeminenta-romanian-mistakes/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "regate-english-default — English — default",
+      "problem": "regate-english-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-english-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-english-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-english-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-english-default/page-4.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-english-default/page-5.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "regate-hungarian-default — Hungarian — default",
+      "problem": "regate-hungarian-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-hungarian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-hungarian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-hungarian-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "regate-romanian-default — Romanian — default",
+      "problem": "regate-romanian-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-default/page-3.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "regate-romanian-loweffort — Romanian — loweffort",
+      "problem": "regate-romanian-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-loweffort/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-loweffort/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-loweffort/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "regate-romanian-mistakes — Romanian — mistakes",
+      "problem": "regate-romanian-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/regate_regate-romanian-mistakes/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "scuderia-english-default — English — default",
+      "problem": "scuderia-english-default",
+      "grade": "Unknown",
+      "language": "English",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-english-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-english-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-english-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-english-default/page-4.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-english-default/page-5.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "scuderia-hungarian-default — Hungarian — default",
+      "problem": "scuderia-hungarian-default",
+      "grade": "Unknown",
+      "language": "Hungarian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-hungarian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-hungarian-default/page-2.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "scuderia-romanian-default — Romanian — default",
+      "problem": "scuderia-romanian-default",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "default",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-default/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-default/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-default/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-default/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "scuderia-romanian-loweffort — Romanian — loweffort",
+      "problem": "scuderia-romanian-loweffort",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "loweffort",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-loweffort/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-loweffort/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-loweffort/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-loweffort/page-4.png"
+      ]
+    }
+  },
+  {
+    "data": {
+      "title": "scuderia-romanian-mistakes — Romanian — mistakes",
+      "problem": "scuderia-romanian-mistakes",
+      "grade": "Unknown",
+      "language": "Romanian",
+      "condition": "mistakes",
+      "pages": [
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-mistakes/page-1.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-mistakes/page-2.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-mistakes/page-3.png",
+        "https://raw.githubusercontent.com/olauramarin/editai/main/pages/scuderia_scuderia-romanian-mistakes/page-4.png"
+      ]
+    }
+  }
+]
