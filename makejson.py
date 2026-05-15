@@ -77,7 +77,7 @@ def infer_problem_key(folder_name: str) -> str:
         if key in low:
             return key
 
-    # fallback: take first chunk before underscore or dash
+    
     return re.split(r"[_-]", low)[0]
 
 
@@ -110,7 +110,7 @@ for folder in sorted(PAGES_DIR.iterdir()):
     language = infer_language(folder_name)
     condition = infer_condition(folder_name)
 
-    # IMPORTANT: title does NOT include condition
+    
     visible_title = f"{problem_display} — clasele {grade} — {language}"
 
     tasks.append({
@@ -120,7 +120,7 @@ for folder in sorted(PAGES_DIR.iterdir()):
             "grade": grade,
             "language": language,
 
-            # Hidden from annotators if you do not show it in the XML
+            
             "condition": condition,
 
             "pages": [raw_url(p) for p in pngs]
