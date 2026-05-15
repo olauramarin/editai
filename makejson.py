@@ -21,7 +21,7 @@ PROBLEM_DISPLAY = {
     "scuderia": "Scuderia",
 }
 
-# EDIT THIS IF ANY GRADE IS WRONG
+# EDIT 
 PROBLEM_GRADE = {
     "cartonase": "5-6",
     "esm": "5-6",
