@@ -38,10 +38,7 @@ def infer_grade(name: str) -> str:
     return "Unknown"
 
 def infer_problem(folder_name: str) -> str:
-    # examples:
-    # 5-6_esm_esm-romanian-default -> esm
-    # 5-6_cartonase_cartonase-ro-default -> cartonase
-    # 7-9_scuderia_scuderia-romanian-default -> scuderia
+   
     parts = folder_name.split("_")
     if len(parts) >= 2:
         return parts[1]
