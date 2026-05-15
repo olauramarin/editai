@@ -45,7 +45,7 @@ def infer_problem(folder_name: str) -> str:
     return folder_name
 
 def raw_url(path: Path) -> str:
-    # Convert local path like pages/.../page-1.png to GitHub raw URL
+    
     return f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{BRANCH}/{path.as_posix()}"
 
 tasks = []
