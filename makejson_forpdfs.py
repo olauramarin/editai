@@ -45,10 +45,7 @@ CONDITION_TO_ID = {
 }
 
 def normalize_text(s: str) -> str:
-    """
-    Lowercase + remove Romanian/Hungarian diacritics.
-    Makes metadata inference more robust.
-    """
+    
     s = s.lower()
     s = unicodedata.normalize("NFKD", s)
     s = "".join(ch for ch in s if not unicodedata.combining(ch))
@@ -90,7 +87,7 @@ def infer_problem_key(name: str) -> str:
         if key in low:
             return key
 
-    # Fallback: use first chunk before underscore/dash/space
+  
     fallback = re.split(r"[_\-\s]+", low)[0]
     return fallback if fallback else "unknown_problem"
 
@@ -101,7 +98,7 @@ tasks = []
 private_condition_mapping = []
 
 for pdf in sorted(PDFS_DIR.rglob("*.pdf")):
-    # Use parent folder + filename, because sometimes metadata is in the folder
+    
     full_name = f"{pdf.parent.name}-{pdf.stem}"
 
     problem_key = infer_problem_key(full_name)
