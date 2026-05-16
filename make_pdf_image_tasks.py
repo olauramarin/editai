@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+#dependent on the correct folder structure for metadata
 
 GITHUB_USER = "olauramarin"
 GITHUB_REPO = "editai"
