@@ -1,496 +1,451 @@
 [
   {
     "data": {
-      "title": "Birocrație — clasele 10-12 — Engleză",
+      "title": "Birocrație — clasele 10-12 — Engleză — varianta 1",
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "birocratie-english-default",
+      "variant_id": "birocratie_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-english-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Birocrație — clasele 10-12 — Maghiară",
+      "title": "Birocrație — clasele 10-12 — Maghiară — varianta 2",
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "birocratie-hungarian-default",
+      "variant_id": "birocratie_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-hungarian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Birocrație — clasele 10-12 — Română",
+      "title": "Birocrație — clasele 10-12 — Română — varianta 3",
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "birocratie-romanian-default",
+      "variant_id": "birocratie_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-romanian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Birocrație — clasele 10-12 — Română",
+      "title": "Birocrație — clasele 10-12 — Română — varianta 4",
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "birocratie-romanian-loweffort",
+      "variant_id": "birocratie_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-romanian-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "Birocrație — clasele 10-12 — Română",
+      "title": "Birocrație — clasele 10-12 — Română — varianta 5",
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "birocratie-romanian-mistakes",
+      "variant_id": "birocratie_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-romanian-mistakes.pdf"
     }
   },
   {
     "data": {
-      "title": "Cartonașe — clasele 5-6 — Engleză",
+      "title": "Cartonașe — clasele 5-6 — Engleză — varianta 1",
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "cartonase-en-default",
+      "variant_id": "cartonase_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-en-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Cartonașe — clasele 5-6 — Maghiară",
+      "title": "Cartonașe — clasele 5-6 — Maghiară — varianta 2",
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "cartonase-hu-default",
+      "variant_id": "cartonase_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-hu-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Cartonașe — clasele 5-6 — Română",
+      "title": "Cartonașe — clasele 5-6 — Română — varianta 3",
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "cartonase-ro-default",
+      "variant_id": "cartonase_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-ro-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Cartonașe — clasele 5-6 — Română",
+      "title": "Cartonașe — clasele 5-6 — Română — varianta 4",
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "cartonase-ro-loweffort",
+      "variant_id": "cartonase_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-ro-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "Cartonașe — clasele 5-6 — Română",
+      "title": "Cartonașe — clasele 5-6 — Română — varianta 5",
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "cartonase-ro-mistakes",
+      "variant_id": "cartonase_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-ro-mistakes.pdf"
     }
   },
   {
     "data": {
-      "title": "Cercetași — clasele 10-12 — Engleză",
+      "title": "Cercetași — clasele 10-12 — Engleză — varianta 1",
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "cercetasi-english-default",
+      "variant_id": "cercetasi_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-english-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Cercetași — clasele 10-12 — Maghiară",
+      "title": "Cercetași — clasele 10-12 — Maghiară — varianta 2",
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "cercetasi-hungarian-default",
+      "variant_id": "cercetasi_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-hungarian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Cercetași — clasele 10-12 — Română",
+      "title": "Cercetași — clasele 10-12 — Română — varianta 3",
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "cercetasi-romanian-default",
+      "variant_id": "cercetasi_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-romanian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Cercetași — clasele 10-12 — Română",
+      "title": "Cercetași — clasele 10-12 — Română — varianta 4",
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "cercetasi-romanian-loweffort",
+      "variant_id": "cercetasi_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-romanian-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "Cercetași — clasele 10-12 — Română",
+      "title": "Cercetași — clasele 10-12 — Română — varianta 5",
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "cercetasi-romanian-mistakes",
+      "variant_id": "cercetasi_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-romanian-mistakes.pdf"
     }
   },
   {
     "data": {
-      "title": "ESM — clasele 5-6 — Engleză",
+      "title": "ESM — clasele 5-6 — Engleză — varianta 1",
       "problem": "ESM",
       "grade": "5-6",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "esm-english-default",
+      "variant_id": "esm_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-english-default.pdf"
     }
   },
   {
     "data": {
-      "title": "ESM — clasele 5-6 — Maghiară",
+      "title": "ESM — clasele 5-6 — Maghiară — varianta 2",
       "problem": "ESM",
       "grade": "5-6",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "esm-hungarian-default",
+      "variant_id": "esm_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-hungarian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "ESM — clasele 5-6 — Română",
+      "title": "ESM — clasele 5-6 — Română — varianta 3",
       "problem": "ESM",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "esm-romanian-default",
+      "variant_id": "esm_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-romanian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "ESM — clasele 5-6 — Română",
+      "title": "ESM — clasele 5-6 — Română — varianta 4",
       "problem": "ESM",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "esm-romanian-loweffort",
+      "variant_id": "esm_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-romanian-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "ESM — clasele 5-6 — Română",
+      "title": "ESM — clasele 5-6 — Română — varianta 5",
       "problem": "ESM",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "esm-romanian-mistakes",
+      "variant_id": "esm_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-romanian-mistakes.pdf"
     }
   },
   {
     "data": {
-      "title": "Expresie — clasele 7-9 — Engleză",
+      "title": "Expresie — clasele 7-9 — Engleză — varianta 1",
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "expresie-english-default",
+      "variant_id": "expresie_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-english-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Expresie — clasele 7-9 — Maghiară",
+      "title": "Expresie — clasele 7-9 — Maghiară — varianta 2",
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "expresie-hungarian-default",
+      "variant_id": "expresie_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-hungarian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Expresie — clasele 7-9 — Română",
+      "title": "Expresie — clasele 7-9 — Română — varianta 3",
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "expresie-romanian-default",
+      "variant_id": "expresie_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-romanian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Expresie — clasele 7-9 — Română",
+      "title": "Expresie — clasele 7-9 — Română — varianta 4",
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "expresie-romanian-loweffort",
+      "variant_id": "expresie_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-romanian-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "Expresie — clasele 7-9 — Română",
+      "title": "Expresie — clasele 7-9 — Română — varianta 5",
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "expresie-romanian-mistakes",
+      "variant_id": "expresie_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-romanian-mistakes.pdf"
     }
   },
   {
     "data": {
-      "title": "Legos — clasele 5-6 — Engleză",
+      "title": "Legos — clasele 5-6 — Engleză — varianta 1",
       "problem": "Legos",
       "grade": "5-6",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "legos-english-default",
+      "variant_id": "legos_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-english-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Legos — clasele 5-6 — Maghiară",
+      "title": "Legos — clasele 5-6 — Maghiară — varianta 2",
       "problem": "Legos",
       "grade": "5-6",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "legos-hungarian-default",
+      "variant_id": "legos_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-hungarian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Legos — clasele 5-6 — Română",
+      "title": "Legos — clasele 5-6 — Română — varianta 3",
       "problem": "Legos",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "legos-romanian-default",
+      "variant_id": "legos_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-romanian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Legos — clasele 5-6 — Română",
+      "title": "Legos — clasele 5-6 — Română — varianta 4",
       "problem": "Legos",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "legos-romanian-loweffort",
+      "variant_id": "legos_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-romanian-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "Legos — clasele 5-6 — Română",
+      "title": "Legos — clasele 5-6 — Română — varianta 5",
       "problem": "Legos",
       "grade": "5-6",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "legos-romanian-mistakes",
+      "variant_id": "legos_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-romanian-mistakes.pdf"
     }
   },
   {
     "data": {
-      "title": "Proeminența — clasele 7-9 — Engleză",
+      "title": "Proeminența — clasele 7-9 — Engleză — varianta 1",
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "proeminenta-english-default",
+      "variant_id": "proeminenta_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-english-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Proeminența — clasele 7-9 — Maghiară",
+      "title": "Proeminența — clasele 7-9 — Maghiară — varianta 2",
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "proeminenta-hungarian-default",
+      "variant_id": "proeminenta_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-hungarian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Proeminența — clasele 7-9 — Română",
+      "title": "Proeminența — clasele 7-9 — Română — varianta 3",
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "proeminenta-romanian-default",
+      "variant_id": "proeminenta_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-romanian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Proeminența — clasele 7-9 — Română",
+      "title": "Proeminența — clasele 7-9 — Română — varianta 4",
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "proeminenta-romanian-loweffort",
+      "variant_id": "proeminenta_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-romanian-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "Proeminența — clasele 7-9 — Română",
+      "title": "Proeminența — clasele 7-9 — Română — varianta 5",
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "proeminenta-romanian-mistakes",
+      "variant_id": "proeminenta_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-romanian-mistakes.pdf"
     }
   },
   {
     "data": {
-      "title": "Regate — clasele 10-12 — Engleză",
+      "title": "Regate — clasele 10-12 — Engleză — varianta 1",
       "problem": "Regate",
       "grade": "10-12",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "regate-english-default",
+      "variant_id": "regate_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-english-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Regate — clasele 10-12 — Maghiară",
+      "title": "Regate — clasele 10-12 — Maghiară — varianta 2",
       "problem": "Regate",
       "grade": "10-12",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "regate-hungarian-default",
+      "variant_id": "regate_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-hungarian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Regate — clasele 10-12 — Română",
+      "title": "Regate — clasele 10-12 — Română — varianta 3",
       "problem": "Regate",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "regate-romanian-default",
+      "variant_id": "regate_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-romanian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Regate — clasele 10-12 — Română",
+      "title": "Regate — clasele 10-12 — Română — varianta 4",
       "problem": "Regate",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "regate-romanian-loweffort",
+      "variant_id": "regate_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-romanian-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "Regate — clasele 10-12 — Română",
+      "title": "Regate — clasele 10-12 — Română — varianta 5",
       "problem": "Regate",
       "grade": "10-12",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "regate-romanian-mistakes",
+      "variant_id": "regate_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-romanian-mistakes.pdf"
     }
   },
   {
     "data": {
-      "title": "Scuderia — clasele 7-9 — Engleză",
+      "title": "Scuderia — clasele 7-9 — Engleză — varianta 1",
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Engleză",
-      "condition_id": 14323124233,
-      "file_id": "scuderia-english-default",
+      "variant_id": "scuderia_001",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-english-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Scuderia — clasele 7-9 — Maghiară",
+      "title": "Scuderia — clasele 7-9 — Maghiară — varianta 2",
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Maghiară",
-      "condition_id": 14323124233,
-      "file_id": "scuderia-hungarian-default",
+      "variant_id": "scuderia_002",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-hungarian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Scuderia — clasele 7-9 — Română",
+      "title": "Scuderia — clasele 7-9 — Română — varianta 3",
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 14323124233,
-      "file_id": "scuderia-romanian-default",
+      "variant_id": "scuderia_003",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-romanian-default.pdf"
     }
   },
   {
     "data": {
-      "title": "Scuderia — clasele 7-9 — Română",
+      "title": "Scuderia — clasele 7-9 — Română — varianta 4",
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 1243232132,
-      "file_id": "scuderia-romanian-loweffort",
+      "variant_id": "scuderia_004",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-romanian-loweffort.pdf"
     }
   },
   {
     "data": {
-      "title": "Scuderia — clasele 7-9 — Română",
+      "title": "Scuderia — clasele 7-9 — Română — varianta 5",
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Română",
-      "condition_id": 1343543243,
-      "file_id": "scuderia-romanian-mistakes",
+      "variant_id": "scuderia_005",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-romanian-mistakes.pdf"
     }
   }
