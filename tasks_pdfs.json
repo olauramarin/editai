@@ -5,7 +5,8 @@
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "birocratie-english-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-english-default.pdf"
     }
   },
@@ -15,7 +16,8 @@
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "birocratie-hungarian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-hungarian-default.pdf"
     }
   },
@@ -25,7 +27,8 @@
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "birocratie-romanian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-romanian-default.pdf"
     }
   },
@@ -35,7 +38,8 @@
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "birocratie-romanian-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-romanian-loweffort.pdf"
     }
   },
@@ -45,7 +49,8 @@
       "problem": "Birocrație",
       "grade": "10-12",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "birocratie-romanian-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/birocratie/birocratie-romanian-mistakes.pdf"
     }
   },
@@ -55,7 +60,8 @@
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "cartonase-en-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-en-default.pdf"
     }
   },
@@ -65,7 +71,8 @@
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "cartonase-hu-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-hu-default.pdf"
     }
   },
@@ -75,7 +82,8 @@
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "cartonase-ro-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-ro-default.pdf"
     }
   },
@@ -85,7 +93,8 @@
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "cartonase-ro-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-ro-loweffort.pdf"
     }
   },
@@ -95,7 +104,8 @@
       "problem": "Cartonașe",
       "grade": "5-6",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "cartonase-ro-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cartonase/cartonase-ro-mistakes.pdf"
     }
   },
@@ -105,7 +115,8 @@
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "cercetasi-english-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-english-default.pdf"
     }
   },
@@ -115,7 +126,8 @@
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "cercetasi-hungarian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-hungarian-default.pdf"
     }
   },
@@ -125,7 +137,8 @@
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "cercetasi-romanian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-romanian-default.pdf"
     }
   },
@@ -135,7 +148,8 @@
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "cercetasi-romanian-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-romanian-loweffort.pdf"
     }
   },
@@ -145,7 +159,8 @@
       "problem": "Cercetași",
       "grade": "10-12",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "cercetasi-romanian-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/cercetasi/cercetasi-romanian-mistakes.pdf"
     }
   },
@@ -155,7 +170,8 @@
       "problem": "ESM",
       "grade": "5-6",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "esm-english-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-english-default.pdf"
     }
   },
@@ -165,7 +181,8 @@
       "problem": "ESM",
       "grade": "5-6",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "esm-hungarian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-hungarian-default.pdf"
     }
   },
@@ -175,7 +192,8 @@
       "problem": "ESM",
       "grade": "5-6",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "esm-romanian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-romanian-default.pdf"
     }
   },
@@ -185,7 +203,8 @@
       "problem": "ESM",
       "grade": "5-6",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "esm-romanian-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-romanian-loweffort.pdf"
     }
   },
@@ -195,7 +214,8 @@
       "problem": "ESM",
       "grade": "5-6",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "esm-romanian-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/esm/esm-romanian-mistakes.pdf"
     }
   },
@@ -205,7 +225,8 @@
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "expresie-english-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-english-default.pdf"
     }
   },
@@ -215,7 +236,8 @@
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "expresie-hungarian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-hungarian-default.pdf"
     }
   },
@@ -225,7 +247,8 @@
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "expresie-romanian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-romanian-default.pdf"
     }
   },
@@ -235,7 +258,8 @@
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "expresie-romanian-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-romanian-loweffort.pdf"
     }
   },
@@ -245,7 +269,8 @@
       "problem": "Expresie",
       "grade": "7-9",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "expresie-romanian-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/expresie/expresie-romanian-mistakes.pdf"
     }
   },
@@ -255,7 +280,8 @@
       "problem": "Legos",
       "grade": "5-6",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "legos-english-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-english-default.pdf"
     }
   },
@@ -265,7 +291,8 @@
       "problem": "Legos",
       "grade": "5-6",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "legos-hungarian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-hungarian-default.pdf"
     }
   },
@@ -275,7 +302,8 @@
       "problem": "Legos",
       "grade": "5-6",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "legos-romanian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-romanian-default.pdf"
     }
   },
@@ -285,7 +313,8 @@
       "problem": "Legos",
       "grade": "5-6",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "legos-romanian-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-romanian-loweffort.pdf"
     }
   },
@@ -295,7 +324,8 @@
       "problem": "Legos",
       "grade": "5-6",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "legos-romanian-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/legos/legos-romanian-mistakes.pdf"
     }
   },
@@ -305,7 +335,8 @@
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "proeminenta-english-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-english-default.pdf"
     }
   },
@@ -315,7 +346,8 @@
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "proeminenta-hungarian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-hungarian-default.pdf"
     }
   },
@@ -325,7 +357,8 @@
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "proeminenta-romanian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-romanian-default.pdf"
     }
   },
@@ -335,7 +368,8 @@
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "proeminenta-romanian-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-romanian-loweffort.pdf"
     }
   },
@@ -345,7 +379,8 @@
       "problem": "Proeminența",
       "grade": "7-9",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "proeminenta-romanian-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/proeminenta/proeminenta-romanian-mistakes.pdf"
     }
   },
@@ -355,7 +390,8 @@
       "problem": "Regate",
       "grade": "10-12",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "regate-english-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-english-default.pdf"
     }
   },
@@ -365,7 +401,8 @@
       "problem": "Regate",
       "grade": "10-12",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "regate-hungarian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-hungarian-default.pdf"
     }
   },
@@ -375,7 +412,8 @@
       "problem": "Regate",
       "grade": "10-12",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "regate-romanian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-romanian-default.pdf"
     }
   },
@@ -385,7 +423,8 @@
       "problem": "Regate",
       "grade": "10-12",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "regate-romanian-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-romanian-loweffort.pdf"
     }
   },
@@ -395,7 +434,8 @@
       "problem": "Regate",
       "grade": "10-12",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "regate-romanian-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/regate/regate-romanian-mistakes.pdf"
     }
   },
@@ -405,7 +445,8 @@
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Engleză",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "scuderia-english-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-english-default.pdf"
     }
   },
@@ -415,7 +456,8 @@
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Maghiară",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "scuderia-hungarian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-hungarian-default.pdf"
     }
   },
@@ -425,7 +467,8 @@
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Română",
-      "condition": "default",
+      "condition_id": 14323124233,
+      "file_id": "scuderia-romanian-default",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-romanian-default.pdf"
     }
   },
@@ -435,7 +478,8 @@
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Română",
-      "condition": "loweffort",
+      "condition_id": 1243232132,
+      "file_id": "scuderia-romanian-loweffort",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-romanian-loweffort.pdf"
     }
   },
@@ -445,7 +489,8 @@
       "problem": "Scuderia",
       "grade": "7-9",
       "language": "Română",
-      "condition": "mistakes",
+      "condition_id": 1343543243,
+      "file_id": "scuderia-romanian-mistakes",
       "pdf": "https://raw.githubusercontent.com/olauramarin/editai/main/pdfs/scuderia/scuderia-romanian-mistakes.pdf"
     }
   }
