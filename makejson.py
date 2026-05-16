@@ -1,7 +1,7 @@
 import json
 import re
 from pathlib import Path
-
+#hardcoded metadata
 GITHUB_USER = "olauramarin"
 GITHUB_REPO = "editai"
 BRANCH = "main"
