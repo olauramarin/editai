@@ -1,7 +1,9 @@
-mkdir -p pages2
+#!/bin/bash
 
-find "editoriale org" -type f -iname "*.pdf" | while IFS= read -r pdf; do
-  rel="${pdf#editoriale org/}"
+mkdir -p pages3
+
+find "editoriale org2" -type f -iname "*.pdf" | while IFS= read -r pdf; do
+  rel="${pdf#editoriale org2/}"
   name="${rel%.pdf}"
 
   safe_name=$(echo "$name" \
@@ -11,7 +13,7 @@ find "editoriale org" -type f -iname "*.pdf" | while IFS= read -r pdf; do
     | sed 's/_\+/_/g' \
     | sed 's/^_//;s/_$//')
 
-  mkdir -p "pages2/$safe_name"
+  mkdir -p "pages3/$safe_name"
 
-  pdftoppm -png -r 200 "$pdf" "pages2/$safe_name/page"
+  pdftoppm -png -r 200 "$pdf" "pages3/$safe_name/page"
 done
