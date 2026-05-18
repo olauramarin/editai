@@ -1,9 +1,14 @@
 #!/bin/bash
 
+if [ -z "$1" ]; then
+  echo "Usage: bash pdftopng.sh <folder-with-pdfs>"
+  exit 1
+fi
+
 pagesDir=$(mktemp -d '/tmp/temp.XXXXX')
 
 find "$1" -type f -iname "*.pdf" | while IFS= read -r pdf; do
-  rel="${pdf#editoriale org2/}"
+  rel="${pdf#$1/}"
   name="${rel%.pdf}"
 
   safe_name=$(echo "$name" \
@@ -20,11 +25,10 @@ done
 
 idx=2
 
-while [ -d pages"$idx" ]
-do
-    idx=$(($idx+1))
+while [ -d pages"$idx" ]; do
+  idx=$((idx+1))
 done
 
-mv $pagesDir "pages$idx"
+mv "$pagesDir" "pages$idx"
 
-echo Created "pages$idx"
+echo "Created pages$idx"
