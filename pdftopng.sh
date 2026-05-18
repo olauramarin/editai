@@ -1,8 +1,8 @@
 #!/bin/bash
 
-mkdir -p pages3
+pagesDir=$(mktemp -d '/tmp/temp.XXXXX')
 
-find "editoriale org2" -type f -iname "*.pdf" | while IFS= read -r pdf; do
+find "$1" -type f -iname "*.pdf" | while IFS= read -r pdf; do
   rel="${pdf#editoriale org2/}"
   name="${rel%.pdf}"
 
@@ -13,7 +13,18 @@ find "editoriale org2" -type f -iname "*.pdf" | while IFS= read -r pdf; do
     | sed 's/_\+/_/g' \
     | sed 's/^_//;s/_$//')
 
-  mkdir -p "pages3/$safe_name"
+  mkdir -p "$pagesDir/$safe_name"
 
-  pdftoppm -png -r 200 "$pdf" "pages3/$safe_name/page"
+  pdftoppm -png -r 200 "$pdf" "$pagesDir/$safe_name/page"
 done
+
+idx=2
+
+while [ -d pages"$idx" ]
+do
+    idx=$(($idx+1))
+done
+
+mv $pagesDir "pages$idx"
+
+echo Created "pages$idx"
