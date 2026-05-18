@@ -9,9 +9,9 @@ GITHUB_USER = "olauramarin"
 GITHUB_REPO = "editai"
 BRANCH = "main"
 
-PAGES_DIR = Path("pages")
-OUT = Path("tasks.json")
-PRIVATE_MAPPING_OUT = Path("condition_mapping_PRIVATE_DO_NOT_IMPORT.json")
+PAGES_DIR = Path("pages4")
+OUT = Path("tasks4.json")
+PRIVATE_MAPPING_OUT = Path("condition_mapping4_PRIVATE_DO_NOT_IMPORT.json")
 
 RANDOM_SEED = 42
 
@@ -57,13 +57,13 @@ def normalize_text(s: str) -> str:
 def infer_condition(name: str) -> str:
     low = normalize_text(name)
 
-    if any(x in low for x in ["loweffort", "low_effort", "low-effort", "low effort", "leneș", "lenes"]):
+    if any(x in low for x in ["loweffort"]):
         return "loweffort"
 
-    if any(x in low for x in ["mistakes", "mistake", "errors", "error", "greseli", "greșeli", "wrong"]):
+    if any(x in low for x in ["mistakes"]):
         return "mistakes"
 
-    if any(x in low for x in ["default", "normal", "standard", "baseline"]):
+    if any(x in low for x in ["default"]):
         return "default"
 
     return "unknown"
@@ -71,16 +71,19 @@ def infer_condition(name: str) -> str:
 def infer_language(name: str) -> str:
     low = normalize_text(name)
 
-    if any(x in low for x in ["romanian", "-ro-", "_ro_", " romana", " română", "-ro.", "_ro."]):
+    tokens = re.split(r"[^a-z0-9]+", low)
+
+    if "ro" in tokens or "romanian" in tokens or "romana" in tokens:
         return "Română"
 
-    if any(x in low for x in ["english", "-en-", "_en_", " engleza", " engleză", "-en.", "_en."]):
+    if "en" in tokens or "english" in tokens or "engleza" in tokens:
         return "Engleză"
 
-    if any(x in low for x in ["hungarian", "-hu-", "_hu_", " maghiara", " maghiară", "-hu.", "_hu."]):
+    if "hu" in tokens or "hungarian" in tokens or "maghiara" in tokens:
         return "Maghiară"
 
     return "Necunoscută"
+    
 
 def infer_problem_key(name: str) -> str:
     low = normalize_text(name)
@@ -93,7 +96,7 @@ def infer_problem_key(name: str) -> str:
     return fallback if fallback else "unknown_problem"
 
 def page_number(path: Path) -> int:
-    match = re.search(r"(\d+)$", path.stem)
+    match = re.fullmatch(r"page-(\d+)", path.stem)
     if match:
         return int(match.group(1))
     return 999999
@@ -107,7 +110,11 @@ for folder in sorted(PAGES_DIR.iterdir()):
     if not folder.is_dir():
         continue
 
-    pngs = sorted(folder.glob("*.png"), key=page_number)
+    pngs = sorted(
+        [p for p in folder.glob("*.png") if re.fullmatch(r"page-\d+", p.stem)],
+        key=page_number
+    )
+
     if not pngs:
         continue
 
@@ -141,7 +148,7 @@ for problem_key, items in sorted(tasks_by_problem.items()):
         variant_id = f"{problem_key}_{idx:03d}"
         visible_title = f"{item['problem_display']} — clasele {item['grade']} — {item['language']} — varianta {idx}"
 
-        # PUBLIC JSON imported into Label Studio   
+        # PUBLIC JSON   
         tasks.append({
             "data": {
                 "title": visible_title,
