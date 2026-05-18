@@ -1,0 +1,75 @@
+<View>
+  <Header value="Adnotare tehnică pentru editoriale generate automat"/>
+
+  <Header value="Instrucțiuni"/>
+  <Header value="Evaluați corectitudinea soluției, explicației, demonstrației, recurențelor, complexității și implementării."/>
+  <Header value="Marcați cu un dreptunghi propoziția, paragraful, formula, bucata de cod sau zona unde observați o problemă."/>
+  <Header value="Dacă alegeți categoria „Alt tip de problemă”, explicați problema în comentariul local."/>
+
+  <Header value="Date despre editorial"/>
+  <Text name="problem" value="$problem"/>
+  <Text name="grade" value="$grade"/>
+ 
+
+  <Header value="Pagini editorial"/>
+  <Image name="pdf" valueList="$pages" zoom="true" zoomControl="true"/>
+
+  <Header value="1. Marcați problemele locale în soluție"/>
+  <Header value="Selectați tipul de problemă, desenați un dreptunghi peste zona problematică și alegeți categoria cea mai potrivită."/>
+
+  <RectangleLabels name="categorie_eroare_tehnica" toName="pdf" choice="multiple">
+    <Label value="Soluția este greșită" background="#C0392B"/>
+    <Label value="Formulă / recurență / indexare greșită" background="#E74C3C"/>
+    <Label value="Raționament sau demonstrație greșită" background="#8E44AD"/>
+    <Label value="Explicație incompletă sau nejustificată" background="#E67E22"/>
+    <Label value="Explicație neclară" background="#F39C12"/>
+    <Label value="Eroare de calcul al complexității" background="#5D6D7E"/>
+    <Label value="Cazuri particulare lipsă sau tratate greșit" background="#6C3483"/>
+    <Label value="Cod greșit, incomplet" background="#BA4A00"/>
+    <Label value="Codul nu corespunde explicației" background="#A04000"/>
+    <Label value="Problemă de formatare LaTeX" background="#009999"/>
+    <Label value="Caractere sau simboluri corupte / afișate greșit" background="#95A5A6"/>
+    <Label value="Alt tip de problemă" background="#000000"/>
+  </RectangleLabels>
+
+  <TextArea name="comentariu_eroare_tehnica" toName="pdf" perRegion="true" rows="3" placeholder="Comentariu opțional despre eroarea marcată. Dacă ați ales „Alt tip de problemă”, descrieți tipul de eroare."/>
+
+  <Header value="2. Evaluare generală"/>
+
+  <Header value="Corectitudinea soluției: 1 = complet greșită, 5 = corectă."/>
+  <Rating name="rating_corectitudine_solutie" toName="pdf" maxRating="5" required="true"/>
+
+  <Header value="Calitatea explicației algoritmice: 1 = foarte slabă, 5 = foarte clară și completă."/>
+  <Rating name="rating_explicatie_algoritmica" toName="pdf" maxRating="5" required="true"/>
+
+  <Header value="Demonstrația de corectitudine: 1 = lipsește/este greșită, 5 = completă și convingătoare."/>
+  <Rating name="rating_demonstrare_corectitudine" toName="pdf" maxRating="5" required="true"/>
+
+  <Header value="Complexitatea: 1 = greșită sau absentă, 5 = corectă și bine explicată."/>
+  <Rating name="rating_complexitate" toName="pdf" maxRating="5" required="true"/>
+
+  <Header value="Potrivirea explicație-cod: 1 = nu se potrivesc, 5 = codul urmează clar explicația."/>
+  <Rating name="rating_explicatie_cod" toName="pdf" maxRating="5" required="true"/>
+
+  <Header value="Adecvare la audiența țintă: editorialul este potrivit pentru nivelul clasei/problemei indicate și pentru cititorii cărora li se adresează?"/>
+  <Rating name="rating_adecvare_audienta_tinta" toName="pdf" maxRating="5" required="true"/>
+
+  <Header value="Lungimea editorialului este potrivită?"/>
+  <Choices name="lungime_editorial" toName="pdf" choice="single" required="true">
+    <Choice value="Prea scurt"/>
+    <Choice value="Potrivit"/>
+    <Choice value="Prea lung"/>
+  </Choices>
+
+  <Header value="Formatul/aspectul vizual este ok?"/>
+  <Choices name="format_vizual_ok" toName="pdf" choice="single" required="true">
+    <Choice value="Da"/>
+    <Choice value="Nu"/>
+  </Choices>
+
+  <Header value="Dificultatea problemei pentru tine: 1 = foarte ușoară, 5 = foarte dificilă."/>
+  <Rating name="rating_dificultate_pentru_annotator" toName="pdf" maxRating="5" required="true"/>
+
+  <TextArea name="comentariu_final_tehnic" toName="pdf" rows="6" placeholder="Comentariu final opțional. A se completa în special atunci când label-ul „Alt tip de problemă” a fost folosit."/>
+
+</View>
