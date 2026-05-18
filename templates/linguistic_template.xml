@@ -5,23 +5,26 @@
   <Header value="Marcați cu un dreptunghi propoziția, paragraful, formula, bucata de cod sau zona unde observați o problemă."/>
   <Header value="Dacă alegeți categoria „Alt tip de problemă”, explicați problema în comentariul local."/>
 
-
+  <Header value="Date despre editorial"/>
+  <Text name="problem=" value="$problem"/>
+  <Text name="grade=" value="$grade"/>
 
   <Header value="Pagini editorial"/>
-  <Image name="pdf" valueList="$pages" zoom="true"/>
+  <Image name="pdf" valueList="$pages" zoom="true" zoomControl="true"/>
 
   <Header value="1. Marcați probleme locale în text"/>
-  <Header value="Desenați un dreptunghi peste zona problematică și alegeți categoria cea mai potrivită."/>
+<Header value="Marcați zona problematică printr-un dreptunghi. Pentru aceeași zonă, puteți selecta una sau mai multe categorii de eroare, dacă se aplică."/>
 
-  <RectangleLabels name="categorie_eroare" toName="pdf">
+  <View><Filter toName="categorie_eroare" minlength="0" name="filter"/><RectangleLabels name="categorie_eroare" toName="pdf" choice="multiple">
     <Label value="Formulare neclară sau greu de înțeles" background="#F39C12"/>
     <Label value="Limbaj nenatural sau stângaci" background="#E67E22"/>
     <Label value="Greșeală gramaticală" background="#D35450"/>
-    <Label value="Greșeală ortografie sau punctuație" background="#D35400"/>
+    <Label value="Greșeală pragma-stilistică/registru nepotrivit" background="#D35450"/>
+    <Label value="Greșeală de  ortografie sau punctuație" background="#D35400"/>
     
 
     <Label value="Paragraf incoerent sau idei greu de urmărit" background="#8E44AD"/>
-    <Label value="Lipsă de tranziție între idei" background="#9B59B6"/>
+    <Label value="Lipsă de conectare între idei" background="#9B59B6"/>
     <Label value="Repetiție sau redundanță" background="#6C3483"/>
     <Label value="Contradicție sau afirmații inconsistente" background="#2E86C1"/>
 
@@ -29,16 +32,17 @@
     
     
 
-    <Label value="Problemă de formatare sau așezare în pagină" background="#34495E"/>
-    <Label value="Problemă de lizibilitate" background="#7F8C8D"/>
-
+    <Label value="Problemă de formatare sau așezare în pagină" background="#7F8C1E"/>
+    <Label value="Problemă de lizibilitate" background="#7F8C1D"/>
+    <Label value="Comentariu meta/artefact LLM prezent în text" background="#7F8C1F"/>
+<Label value="Caractere sau simboluri corupte / afișate greșit" background="#95A5A6"/>
 
     <Label value="Alt tip de problemă" background="#000000"/>
-  </RectangleLabels>
+  </RectangleLabels></View>
 
   <TextArea name="comentariu_eroare_locala" toName="pdf" perRegion="true" rows="3" placeholder="Explicați problema marcată aici. Dacă ați ales „Alt tip de problemă”, descrieți ce tip de eroare este."/>
 
-  <Header value="2. Evaluare generală a editorialului"/>
+  <Header value="2. Evaluare generală a editorialului: 1 = nu se aplică, 5 = se aplică puternic. "/>
 
   <Header value="Claritate generală: cât de ușor este de înțeles editorialul?"/>
   <Rating name="rating_claritate" toName="pdf" maxRating="5" required="true"/>
@@ -64,7 +68,7 @@
 <Header value="4. Probleme specifice textelor generate de AI"/>
 <Header value="Pentru ratingurile de mai jos: 1 = problema nu apare deloc sau aproape deloc; 5 = problema apare foarte des și afectează serios calitatea editorialului."/>
 
-<Header value="Verbiozitate: textul este prea lung, repetitiv sau spune prea mult pentru ideea transmisă?"/>
+<Header value="Verbozitate: textul este prea lung, repetitiv sau spune prea mult pentru ideea transmisă?"/>
 <Rating name="rating_verbiozitate" toName="pdf" maxRating="5" required="true"/>
 
 <Header value="Repetitivitate: apar aceleași idei, formulări sau explicații de mai multe ori?"/>
